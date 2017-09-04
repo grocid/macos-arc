@@ -1,6 +1,6 @@
 # macOS Arc
 
-This is a theme based on [Arc](https://github.com/horst3180/arc-theme), with the intention to reproduce the look and feel of macOS.
+This is a theme based on [Arc](https://github.com/horst3180/arc-theme), created with the intention to reproduce the look and feel of macOS.
 
 # Screenshots
 
