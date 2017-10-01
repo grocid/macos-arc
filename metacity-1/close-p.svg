@@ -13,8 +13,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="close_prelight.svg">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="close-p.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,20 +25,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="-22.186226"
-     inkscape:cy="7.0490381"
+     inkscape:cx="-21.807419"
+     inkscape:cy="1.9982754"
      inkscape:document-units="px"
-     inkscape:current-layer="g4092"
+     inkscape:current-layer="g4144"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1360"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1379"
+     inkscape:window-height="786"
+     inkscape:window-x="2131"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -74,7 +74,7 @@
           <path
              inkscape:connector-curvature="0"
              d="m 522.79173,40.6992 c 265.56911,0 480.85987,215.29542 480.85987,480.86946 0,265.57526 -215.29076,480.86604 -480.85987,480.86604 -265.57896,0 -480.86983,-215.29078 -480.86983,-480.86604 0,-265.57404 215.29087,-480.86946 480.86983,-480.86946"
-             style="fill:#f25056;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             style="fill:#fc625d;fill-opacity:1;fill-rule:evenodd;stroke:none"
              id="path4096" />
           <path
              inkscape:connector-curvature="0"
